@@ -7,7 +7,7 @@ This is a web-based application developed for FUTURE READY TALENT PROJECT.
 
 
 **Project Link** - https://white-island-01498a100.3.azurestaticapps.net/
-**Project Demo video Link** - https://youtu.be/j0dEJgzNJ8s
+**Project Demo video Link** - 
 
 
 ## Features and Functionalities 😃
@@ -53,11 +53,20 @@ Virtual Assistance
 
 ![Screenshot (128)](https://github.com/21A35A0509-cse/FRT-Project/assets/110163097/08c124b9-fa0e-4752-87d1-cc9566460635)
 
+### Azure Technologies
+
+Azure Bot Services
+
+![Screenshot (129)](https://github.com/21A35A0509-cse/FRT-Project/assets/110163097/4b17f7e7-50fe-4929-8859-7f029ba14f64)
+
+Static Web Apps
+
+![Screenshot (130)](https://github.com/21A35A0509-cse/FRT-Project/assets/110163097/16c83435-b8be-4fd2-a571-109924f2f69d)
+
+
 ## Tech Stack 💻
 
 - Azure(Hosting)
-- Static Web Apps
-- Azure Cognitive Services
 - HTML
 - CSS
 - Bootstrap
