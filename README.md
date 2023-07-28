@@ -7,7 +7,7 @@ This is a web-based application developed for FUTURE READY TALENT PROJECT.
 
 
 **Project Link** - https://white-island-01498a100.3.azurestaticapps.net/
-**Project Demo video Link** - 
+**Project Demo video Link** - https://youtu.be/HmLEZ1-PBIo
 
 
 ## Features and Functionalities 😃
